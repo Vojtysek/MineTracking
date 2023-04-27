@@ -2,3 +2,6 @@ name: MineTracking
 version: '${project.version}'
 main: me.vojtysek.minetracking.MineTracking
 api-version: 1.19
+author: Vojtysek
+description: A plugin that counts who mined ores of different types.
+
