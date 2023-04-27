@@ -1,0 +1,4 @@
+name: MineTracking
+version: '${project.version}'
+main: me.vojtysek.minetracking.MineTracking
+api-version: 1.19
